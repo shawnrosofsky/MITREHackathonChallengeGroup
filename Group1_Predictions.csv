@@ -7,7 +7,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 -1,-1,-1,http://signin.ebay.de.ws.ebayisapi.dll.signin.usingssl.epc9b1bterrwrfb...,1
 -1,3,-1,http://los4acuerdos.com.mx/SEMS/new.admin.account/fcb3ac36d42bb3f02ca8...,1
 130,2,299,http://www.kf25zx.com/images/?us.battle.net/login/en/?ref=http:...,1
--1,-1,-1,http://cgm.cs.mcgill.ca/~godfried/teaching/pr-web.html...,1
+-1,-1,-1,http://cgm.cs.mcgill.ca/~godfried/teaching/pr-web.html...,0
 3,9,79,http://www.monfactufree.com/freemobilemoncompte589/73677fc90f6b57e994b...,1
 -1,-1,-1,http://www.roseiradevistaalegre.com.br/sin/Outloook/login%20(2).html...,1
 245,55,251,http://www.sen-dure.com/...,0
@@ -39,7 +39,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 168,12,6,http://www.databasejournal.com/...,0
 217,11,259,http://www.weddles.com/...,0
 109,11,33,http://www.heathervictoriaheld.com/wp-includes/SimplePie/Data/2153c968...,1
-226,14,8,http://secure.square.logindqxu.usa.cc/...,1
+226,14,8,http://secure.square.logindqxu.usa.cc/...,0
 -1,-1,-1,http://linkage.rockefeller.edu/...,0
 4,8,68,http://exposednaija.info/fb/mobile.html...,1
 246,78,111,http://www.bevmo.com/...,0
@@ -51,7 +51,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 13,-1,21,http://cosureb.com/wp-content/g8634d010eacf55520/index2.php?login&amp;...,1
 -1,-1,-1,http://rafagroup.es/9713tdij464dda...,1
 35,1,347,http://recover-webs-pages.fulba.com/email.htm...,1
-191,13,358,http://www.tysknews.com/Depts/gov_philosophy/phil_of_government.htm...,1
+191,13,358,http://www.tysknews.com/Depts/gov_philosophy/phil_of_government.htm...,0
 236,16,663,http://www.russellstover.com/...,0
 -1,-1,-1,http://aleph0.clarku.edu/~djoyce/mathhist/...,0
 228,60,1213,http://www.powergridindia.com/...,0
@@ -65,11 +65,11 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 -1,-1,-1,http://www.naas.ae/acct/googledrive...,1
 78,6,192,http://www.warlicksbc.org/wp/wp-includes/aolupdate.htm...,1
 -1,-1,-1,http://www.sdk.co.jp/...,0
-154,38,691,http://people.revoledu.com/kardi/tutorial/kMean/index.html...,1
+154,38,691,http://people.revoledu.com/kardi/tutorial/kMean/index.html...,0
 69,15,508,http://www.shelburnefallscoffee.com/...,0
 130,2,372,http://www.keltickat.net/...,0
 147,33,80,http://kiltonmotor.com/others/m.i.php?rand=13inboxlightaspxn.177425641...,1
-226,14,8,http://secure.square.login-xsey.usa.cc/...,1
+226,14,8,http://secure.square.login-xsey.usa.cc/...,0
 240,12,11,http://www.hindustantimes.com/...,0
 -1,9,-1,http://cges.ac.in/logo/Google/Google/dld/us/...,1
 225,3,247,http://www.sport-it.com/...,0
@@ -78,8 +78,8 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 -1,-1,-1,http://warnings-system.at.ua/confirm-pages.html...,1
 -1,4,-1,http://fcamin.nic.in/...,0
 234,6,187,http://www.anandabazar.com/...,0
--1,-1,-1,http://www.shikoku.co.jp/eng/...,1
-226,14,8,http://secure.square.logindqx.usa.cc/...,1
+-1,-1,-1,http://www.shikoku.co.jp/eng/...,0
+226,14,8,http://secure.square.logindqx.usa.cc/...,0
 -1,-1,-1,http://mail.sanabes.org.sa/~masseri/invoice/Ed/Ed/index.php...,1
 -1,-1,-1,http://www.bnt-chemicals.de/...,1
 167,1,345,http://www.allindianewspapers.com/government.html...,1
@@ -103,10 +103,10 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 36,12,11,http://www.elmonkey.com/setl.php...,1
 72,12,30,http://alfaromedia.com/wp-content/themes/rfxzetta/zxc/ad2/yahoo/i.php?...,1
 -1,5,-1,http://pmindia.gov.in/en/...,1
-94,50,291,http://www.floralandweddingsupplies.com/...,1
+94,50,291,http://www.floralandweddingsupplies.com/...,0
 -1,-1,-1,http://www.osti.gov/estsc/...,1
 117,3,253,http://adviseproltd.com/Include/gdoc/a4d8dc05d67daa5ab800cf95b711d0cb/...,1
-226,14,8,http://hiroba.dqx.jp.iuxel.usa.cc/...,1
+226,14,8,http://hiroba.dqx.jp.iuxel.usa.cc/...,0
 -1,-1,-1,http://webmailupgradecentre.sitey.me...,1
 -1,-1,-1,http://hiltonestates.org/...,0
 177,3,1045,http://www.academyofdiplomacy.org/...,0
@@ -123,7 +123,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 104,16,37,http://puasa22.890m.com/privation1.php...,1
 17,7,59,http://gaspra-life.com/administrator/manifests/libraries/secure.itunes...,1
 211,5,29,http://www.job-hunt.org/...,0
--1,-1,-1,http://www-ccs.cs.umass.edu/db/organizations.html...,1
+-1,-1,-1,http://www-ccs.cs.umass.edu/db/organizations.html...,0
 217,11,375,http://www.jobsdb.com/...,0
 156,1,1,http://www.oldradiodoc.com/...,0
 3,9,57,http://www.salintoshourt.com/wp-well/...,1
@@ -160,7 +160,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 -1,-1,-1,http://kus.sollers-distribution.pl/doc20161/index.php...,1
 206,10,56,http://artilect.org/...,0
 193,11,467,http://www.aaasoftware-ezine.com/...,0
-127,41,1865,http://www.shobiziems.com/doctopdf/sess/...,1
+127,41,1865,http://www.shobiziems.com/doctopdf/sess/...,0
 -1,-1,-1,http://myliverpoolfc.org/...,1
 163,17,61,http://www.freshcleanday.com/...,0
 229,11,31,http://1501broadway.com/...,0
@@ -172,14 +172,14 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 2,-1,75,http://agricole-service.fr/particuliers/security/g2e36g_information/up...,1
 -1,-1,-1,http://evangelistaadvogados.com.br/newdrop/deiswe/dpbx...,1
 5,19,165,http://compasschildrenscharity.org.uk/wp-admin/images/login.alibaba.co...,1
-160,8,891,http://www.dlcomp.com/images/Fine/DpBoxtbtrich/dropbox/index.php...,1
+160,8,891,http://www.dlcomp.com/images/Fine/DpBoxtbtrich/dropbox/index.php...,0
 184,20,143,http://www.vectorkids.com/...,0
 278,82,443,http://www.reuters.com/...,0
 250,14,479,http://www.net-temps.com/...,0
 -1,-1,-1,http://semicond.ysu.am/kd/...,1
 -1,-1,-1,http://examallindia.com/usaafixedkossowafriend/...,1
 124,8,108,http://muftela.com/alibaba/index.php?email=abuse@aliyun.co&amp;.rand=1...,1
--1,-1,-1,http://math.sun.ac.za/~prodinger/...,0
+-1,-1,-1,http://math.sun.ac.za/~prodinger/...,1
 -1,-1,-1,http://diarplast.com.ar/assets/frontend/onepage/img/nD/index.php...,1
 226,14,8,http://secure.square.login-zxey.usa.cc/account/app/svc/login.html...,1
 228,0,364,http://www.press-enterprise.com/nie/...,0
@@ -215,7 +215,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 5,7,62,http://www.top10filmy.com/index/74f76897a7b11fd0edd3579e988d477a/dcc54...,1
 230,34,723,http://www.bountyhunterwine.com/...,0
 222,65,1121,http://www.setindia.com/...,0
-40,8,112,http://www.sexarchive.info/...,0
+40,8,112,http://www.sexarchive.info/...,1
 61,11,382,http://www.eastlancsblues.co.uk/...,0
 6,6,188,http://update-account-information-pp-case.easyway-jo.com/Update-Your-A...,1
 -1,-1,-1,http://homepages.feis.herts.ac.uk/~comqejb/algspec/pr.html...,1
@@ -255,7 +255,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 218,34,860,http://www.121music.com/...,0
 140,16,14,http://www.tallahasseespeechcenter.com/wp-content/uploads/2015/13/payu...,1
 194,10,87,http://www.computertim.com/...,0
--1,-1,-1,http://www.meada.pl/ourtime/v3/member.htm...,1
+-1,-1,-1,http://www.meada.pl/ourtime/v3/member.htm...,0
 -1,-1,-1,http://www.intuitivaeventos.com.br/mgs/es...,1
 -1,-1,-1,http://www.cs.unc.edu/~taylorr/...,0
 -1,10,1145,http://iepedrooctavioamado.edu.co/logs/logon.htm...,1
@@ -291,7 +291,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 -1,-1,-1,http://www.farmafocus.com.br/one/dropbox...,1
 17,7,158,http://www.perlabsshipping.com/update-your-account-information/17c1ade...,1
 225,27,876,http://www.bibsocamer.org/...,0
--1,-1,-1,http://www3.cs.stonybrook.edu/~algorith/...,1
+-1,-1,-1,http://www3.cs.stonybrook.edu/~algorith/...,0
 -1,-1,-1,http://horim-bekesher.co.il/review/nab.com.au/nab.html?https://ib.nab....,1
 247,5,564,http://www.wineaccess.com/...,0
 4,32,60,http://nukestudio.org/huoxiaodong.org/newdocs/...,1
@@ -333,7 +333,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 60,0,753,http://www.plainfieldriverdays.com/js/ajax/bobbu/5bbb91180dc0937f999da...,1
 120,96,404,http://texstarpt.com/capitalone360/1828f3018f587120ac5361a9c61e67e5...,1
 152,4,262,http://www.resume-perfection.com/...,0
-226,14,8,http://hiroba.dqx.jp.imxsl.usa.cc/...,1
+226,14,8,http://hiroba.dqx.jp.imxsl.usa.cc/...,0
 -1,-1,-1,http://error-update.at.ua/incorrect-confirm.html...,1
 13,11,68,http://pratyakshahrs.com/old/putt/logo...,1
 -1,-1,-1,http://hospitaldeolhosdejau.com.br/wp-content/plugins/Zone1/Zone1/logi...,1
@@ -397,7 +397,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 37,11,972,http://handasapc.com/htd9.html...,1
 218,10,76,http://appleid.apple.com-subscriptions.manager508158125.kevinfoley.com...,1
 202,14,60,http://www.willnaylor.com/wnlib.html...,0
--1,-1,-1,http://www.football.co.uk/liverpool/news...,1
+-1,-1,-1,http://www.football.co.uk/liverpool/news...,0
 -1,-1,-1,http://www.centurypark.rw/jug/...,0
 227,97,685,http://www.neuron.co.uk/...,0
 175,5,5324,http://www.monstersteel.com/...,0
@@ -412,13 +412,13 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 256,68,8,http://feeds.pbs.org/pbs/nbr-programs...,0
 133,11,30,http://www.careerxls.com/...,0
 26,10,-1,http://timer.utego.ru/CIBCOnline%20olbtxn%20Authentication%20SignOn%20...,1
-226,14,8,http://hiroba.dqx.jp.ioucl.usa.cc/...,1
+226,14,8,http://hiroba.dqx.jp.ioucl.usa.cc/...,0
 206,10,66,http://www.mikebest.net/...,0
 97,4,254,http://themarketingremedy.com/wp-includes/images/wlw/suftd/USAALOGIN/Q...,1
 -1,9,-1,http://lnx.hasninrf.it/PayaSSsl.CEanada.tNZnZZlR3ZdyZZ-5RkZZDRTZZBy-Cb...,1
 197,7,338,http://www.zeelearn.com/...,0
 62,10,179,http://denisejhughes.com/auto/ALL/others/ii.php?fid=4...,1
-177,3,61,http://www.librarysupport.net/librarylovers/...,1
+177,3,61,http://www.librarysupport.net/librarylovers/...,0
 -1,4,-1,http://cabsec.nic.in/...,0
 -1,-1,-1,http://ds534634.at.ua/incorrect_email.html...,1
 -1,-1,-1,http://valgasjoinville.com.br/newdrop/dpbx...,1
@@ -444,7 +444,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 209,7,12,http://www.ebubbles.com/...,0
 188,4,608,http://gdtennis.co.uk/GDTennis/Wellington_files/online.hmrc.gov.uk.tax...,1
 196,8,51,http://www.wasanonline.com/...,0
-226,14,8,http://secure.square.logindqxz.usa.cc/...,1
+226,14,8,http://secure.square.logindqxz.usa.cc/...,0
 151,5,718,http://www.hibiki-an.com/...,0
 -1,-1,-1,http://micro-unique.co.za/ff/5da6047a69cb262dde237f05ccb09778/...,1
 64,8,111,http://www.ostlive.com/6d4db61c3e2f7e6a1240396110f79b11/verification.p...,1
@@ -469,7 +469,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 186,6,243,http://www.raoscoffee.com/...,0
 159,9,85,http://www.hsngroup.com/...,0
 199,17,214,http://www.checkpointonline.co.uk/...,0
--1,-1,-1,http://math.nju.edu.cn/~zwsun/csz.htm...,0
+-1,-1,-1,http://math.nju.edu.cn/~zwsun/csz.htm...,1
 175,17,5316,http://www.moshier.net/...,0
 44,4,230,http://www.iofferauctions.com/wp-admin/network/documents/0/b4ddd630a83...,1
 79,5,231,http://www.ferozitech.com/css/Activate.html...,1
@@ -505,7 +505,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 -1,-1,-1,http://borwita.co.id/css/GD...,1
 145,11,41,http://www.wrcoffee.com/...,0
 95,85,628,http://www.namoleague.com/...,0
-226,14,8,http://hiroba.dqx.jp.ixczl.usa.cc/...,1
+226,14,8,http://hiroba.dqx.jp.ixczl.usa.cc/...,0
 96,36,32,http://md5.my-addr.com/...,0
 -1,-1,-1,http://www.vajinismus.eu/pps/SPERROW%20PY/PY/9838934a621773927e11b4c4f...,1
 -1,-1,-1,http://www.inc-service-accounts.ml/webapps/20ccc/websrc...,1
@@ -532,14 +532,14 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 2,10,61,http://safetem.com/fcid/login.php?cmd=login_submit&amp;id=876f529b656a...,1
 199,5,237,http://www.boundary-element-method.com/...,0
 203,61,4,http://cafelasemeuse.com/...,0
-209,43,396,http://jobsearch.about.com/od/resumes/a/aa040801a.htm...,1
+209,43,396,http://jobsearch.about.com/od/resumes/a/aa040801a.htm...,0
 275,25,916,http://money.cnn.com/...,0
 25,23,33,http://gourmetfinales.com/...,0
 191,36,373,http://www.dickrutan.com/...,0
 -1,-1,-1,http://web-maintenance-account-page.esy.es/...,1
 252,12,375,http://www.gmacfs.com/...,0
 106,2,294,http://www.eddiebsbbq.com/...,0
-226,14,8,http://hiroba.dqx.jp.ixcel.usa.cc/...,1
+226,14,8,http://hiroba.dqx.jp.ixcel.usa.cc/...,0
 226,14,8,http://secure.square.logindqx.usa.cc/account/app/svc/login.html...,1
 9,15,285,http://gotmilkpharmacy-cc.com/admin/gdoc/c41ae7f21ca577cd891f3b3bcc747...,1
 165,3,58,http://www.slrecords.us/...,0
@@ -551,7 +551,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 159,45,244,http://www.allaboutcircuits.com/vol_4/chpt_7/index.html...,1
 196,8,129,http://www.choiceorganicteas.com/...,0
 253,11,36,http://www.dunkindonuts.com/...,0
--1,-1,-1,http://www.lichtundliebeistleben.de/templates/Neues%20Verzeichnis/Impo...,1
+-1,-1,-1,http://www.lichtundliebeistleben.de/templates/Neues%20Verzeichnis/Impo...,0
 -1,-1,-1,http://www.eli.sdsu.edu/courses/fall95/cs660/...,0
 191,13,487,http://www.sweetanniesrose.com/...,0
 -1,-1,-1,http://hjartholm.no/blog/wp-includes/js/bookmark/index.php?n\x1774256418&...,1
@@ -594,7 +594,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 150,6,140,http://www.mgmtarticles.com/...,0
 160,8,61,http://enkaycondominiums.com/...,0
 61,23,83,http://www.dionisgmskincare.com/Default.asp...,1
-108,12,5,http://sudharma.epapertoday.com/...,1
+108,12,5,http://sudharma.epapertoday.com/...,0
 74,10,68,http://se14th.aamcocentraliowa.com/~wendydel/wp-includes/editedwells/...,1
 -1,-1,-1,http://appleid.apple.com-subscriptions.manager542851060.bertovic.com.a...,1
 218,3,286,http://www.stickyfingers.com/...,0
@@ -608,7 +608,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 -1,-1,-1,http://toriabeauty.ro/minn/index.php...,1
 15,9,84,http://egyptmet.com/apple.it/user12-italy.apple...,1
 -1,-1,-1,http://www.inter-wein.de/...,0
--1,-1,-1,http://www.aeep.com.au/SGD/pvalidate.html...,1
+-1,-1,-1,http://www.aeep.com.au/SGD/pvalidate.html...,0
 5,7,150,http://www.areteitech.com/vowll/Gdoccc/...,1
 226,14,213,http://hiroba.dqx.jp.imxzl.usa.cc/account/app/svc/login.html...,1
 158,46,2041,http://www.potto.org/...,0
@@ -633,7 +633,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 220,44,494,http://www.gujaratindia.com/...,0
 7,5,212,http://www.mamaefotografaexpert.com/~fezna329/seguroautoBB/login.do256...,1
 225,3,149,http://www.daimler.com/...,0
--1,18,-1,http://agri.gujarat.gov.in/...,1
+-1,18,-1,http://agri.gujarat.gov.in/...,0
 -1,-1,-1,http://2lovers.ro/wp/wp-includes/SimplePie/Data/79f543da8eac29438c55bf...,1
 -1,-1,-1,http://www.vajinismus.eu/pps/SPERROW%20PY/PY/b41475736306d708927f5dbc5...,1
 2,10,61,http://www.safetem.com/fcid/login.php?cmd=login_submit&id=c1f2d0fab4ab...,1
@@ -747,7 +747,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 143,13,348,http://www.choclatique.com/...,0
 111,9,91,http://gowebtools.com/bobs...,0
 2,10,65,http://www-paypal.com.websapphome.com-webshomewebsrc.com/webapps/bd975...,1
--1,-1,-1,https://news.google.com/?topic=b...,1
+-1,-1,-1,https://news.google.com/?topic=b...,0
 104,4,-1,http://systemair-sales.ru/CIBCOnline%20olbtxn%20Authentication%20SignO...,1
 192,12,18,http://www.prwra.com/...,0
 31,5,226,http://joynovelties.com/alibabas/alibabasure...,1
@@ -801,7 +801,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 -1,7,-1,http://www.pluton.com.mx/nab/3D/a3dd898300fe9b3ac7949ca10c7ca909/...,1
 41,31,471,http://tornillosyrefacciones.com/modules/mod_custom/emailupdate2016/ma...,1
 9,3,225,http://muzikkoyu.net/dropbox2016/Home/index.php...,1
--1,-1,-1,https://sites.google.com/site/lettheshowbegin/...,1
+-1,-1,-1,https://sites.google.com/site/lettheshowbegin/...,0
 172,8,136,http://www.ema-tech.co.uk/mufc/...,0
 9,15,285,http://gotmilkpharmacy-cc.com/admin/gdoc/c41ae7f21ca577cd891f3b3bcc747...,1
 -1,-1,-1,http://naturezaviva.net.br/wp-file/358803ba52e2a3c94292e6c0bd78eeba/...,1
@@ -813,7 +813,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 37,11,972,http://handasapc.com/htd13.html...,1
 60,48,565,http://www.bluehatcoffee.com/...,0
 -1,18,-1,https://www.ndmc.gov.in/...,0
--1,-1,-1,http://www.ambergallery.lt/...,0
+-1,-1,-1,http://www.ambergallery.lt/...,1
 -1,-1,-1,http://www.doctorfixit.com.au/usaa.com-sec-inet-auth-logon-ent-logon-l...,1
 230,10,52,http://www.funbrain.com/football/...,0
 100,68,203,http://www.bjcurio.com/js/index.htm?http://us.battle.net/login/en/?ref...,1
@@ -963,7 +963,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 91,5,109,http://www.signaturestylesvt.com/cache/Zone1/...,1
 -1,-1,-1,http://www.aim.com.au/...,0
 27,21,95,http://www.medi-surg.co.uk/wp-includes/fonts/8c798a01b3c3e749e55d811be...,1
-184,104,54,http://secure1.store.apple.com.nlipdlgtpmg91wx.robstephens.com/sign_in...,1
+184,104,54,http://secure1.store.apple.com.nlipdlgtpmg91wx.robstephens.com/sign_in...,0
 159,21,968,http://athon.websitewelcome.com/~khoryhome/42c85f1daa01e55972ade7d178b...,1
 125,19,95,http://www.stonesandfindings.com/...,0
 64,56,1657,http://www.carmelcoffeeroasters.com/...,0
@@ -1045,7 +1045,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 37,82,470,http://kirkjellum.com/Doc/e9b0eb48ce345267981f8ffb1053ca9c...,1
 248,39,488,http://www.saperston.com/...,0
 3,9,65,http://airbnb.tax/rooms/63246643/login.php...,1
--1,-1,-1,http://cgi.csc.liv.ac.uk/~ped/teachadmin/algor/algor.html...,0
+-1,-1,-1,http://cgi.csc.liv.ac.uk/~ped/teachadmin/algor/algor.html...,1
 244,8,73,http://www.jumbovideo.com/...,0
 208,8,169,http://www.mattscdsingles.com/...,0
 228,12,18,http://www.britishtea.com/...,0
@@ -1103,7 +1103,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 -1,-1,-1,http://futureassociate.com.np/Paypal/security/kgu5t526444v142iuv1jw55l...,1
 -1,4,-1,http://goicharters.nic.in/...,0
 13,11,38,http://www.dieseltrucksincharlotte.com/...,0
--1,-1,-1,http://www.xs4all.nl/~blago/planewriting/fokker.html...,1
+-1,-1,-1,http://www.xs4all.nl/~blago/planewriting/fokker.html...,0
 -1,-1,-1,http://www.presertec.cl/boaa/step2.html...,1
 165,39,169,http://remotetechs.com/newsite/confirm-your-paypa1/4f1e2ab4ae75668ff0a...,1
 -1,-1,-1,http://www.nhmmaastricht.nl/...,0
@@ -1125,7 +1125,7 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 192,24,37,http://www.aneliteresume.com/...,0
 -1,-1,-1,https://www.hhbd.pl/Login/...,1
 136,31,114,http://www.openrce.org/...,0
-2,10,51,http://verify-icloud-find.com/...,1
+2,10,51,http://verify-icloud-find.com/...,0
 3,9,54,http://jilliandco.com/rem/google_doc%20(2)/google_doc/...,1
 26,-2,67,http://ecosaht.com/press/BDBB%20(2)/BDBB/BDBB/dpbx/index.php...,1
 251,-23,331,http://www.volvo.com/...,0
@@ -1158,9 +1158,9 @@ create_age(months),expiry_age(months),update_age(days),URL,Label
 224,28,7,http://www.adontec.com/supert_e.htm...,0
 72,0,355,http://chrissair.com/n/impots.gouv.fr/f55b561b27f385a711a1c73112f29ffe...,1
 227,1,323,http://www.aloud.com/...,0
-277,23,43,http://www.elsevier.com/journals/bba-biochimica-et-biophysica-acta/FS00-0253...,1
+277,23,43,http://www.elsevier.com/journals/bba-biochimica-et-biophysica-acta/FS00-0253...,0
 -1,-1,-1,http://drop-box.metodistaebenezer.com.br/d56a31a0d535ed8b263d666bc686d...,1
-277,23,43,http://www.journals.elsevier.com/progress-in-biophysics-and-molecular-biology/...,1
+277,23,43,http://www.journals.elsevier.com/progress-in-biophysics-and-molecular-biology/...,0
 3,9,65,http://www-paypal.com.websapphome.com-webswebsrcs.com/...,1
 -1,-1,-1,http://specialrentals.gr/tall/image.htm...,1
 89,19,1035,http://cnchosp.co.kr/data/file/free/Upgrade/excel/excel...,1
